@@ -1,4 +1,5 @@
 
+# Pick Up
 <a href="https://github.com/y-tetsu/reversi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=y-tetsu&repo=reversi" />
 </a>

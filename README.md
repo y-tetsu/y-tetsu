@@ -1,3 +1,5 @@
+# Welcome！
+![Counter](https://profile-counter.glitch.me/y-tetsu/count.svg)
 
 # Pick Up
 <a href="https://github.com/y-tetsu/reversi">
@@ -11,5 +13,3 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=y-tetsu&count_private=true&show_icons=true&theme=rose_pine" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-tetsu&theme=rose_pine" />
 </a>
-
-![Counter](https://profile-counter.glitch.me/y-tetsu/count.svg)

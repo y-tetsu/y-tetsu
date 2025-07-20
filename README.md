@@ -1,5 +1,4 @@
 # Welcome！
-![Counter](https://profile-counter.glitch.me/y-tetsu/count.svg)
 
 # Pick Up
 <a href="https://github.com/y-tetsu/reversi">
